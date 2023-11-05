@@ -1,0 +1,109 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+body{
+    background: url("../../picture/stock.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    display: flex;
+    justify-content:center;
+    background-color: rgb(53, 51, 51);
+    padding:15px 20px ;
+    align-items: center;
+   background-position: center;
+}
+.home{
+   color:white;
+   background: rgb(10, 233, 10);
+   padding:5px;
+
+}
+.logo{
+    text-decoration: none;
+    color:white;
+    font-size: 25px;
+}
+.logo:hover{
+    background-color: rgb(23, 212, 16);
+    padding:5px;
+}
+.logo img{
+    width:30px; 
+    height:20px;
+     
+}
+.list a{
+    text-decoration: none; 
+    color:white;
+    
+}
+.list{
+    margin-left: 300px; 
+    padding:10px;
+    word-spacing: 20px; 
+}
+.bar:hover{
+    background-color: rgb(23, 212,16);
+    padding:5px;
+
+}
+.main_page{
+    text-align: center;
+    margin-top:250px;
+    
+}
+.page p{
+    text-transform: uppercase;
+    color:white;
+    padding:10px;
+    word-spacing: 7px;
+    letter-spacing: 4px;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+.page h1{
+    text-transform: uppercase;
+    color:white;
+    padding:10px;
+    letter-spacing: 3px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+.pera{
+    color:rgb(139, 139, 139);
+    padding:10px;
+    font-size: 14px;
+}
+.btn1{
+    width: 150px;
+    height: 40px;
+    margin:30px;
+    text-transform: uppercase;
+    font-family:'Times New Roman', Times, serif ;
+    word-spacing: 3px;
+    background-color: rgb(8, 245, 8);
+    color:white;
+    border:none;
+    border-radius: 2px;
+    letter-spacing: 2px;
+
+}
+.btn2{
+    width: 180px;
+    height: 45px;
+    margin:30px;
+    text-transform: uppercase;
+    font-family:'Times New Roman', Times, serif ;
+    word-spacing: 3px;
+    background: transparent;
+    color:white;
+     border-radius: 4px;
+     letter-spacing: 2px;
+     padding:5px;
+     border-color: white;
+}
+
