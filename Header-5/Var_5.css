@@ -1,0 +1,444 @@
+f*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.Section_1{
+    border: 1px solid black;
+    border:none;
+     background: rgba(238, 191, 2, 0.748);
+    height: 600px;
+     
+}
+.font{
+    display: flex;
+    justify-content:space-between;
+    background-color: rgb(153, 0, 0);
+    padding: 10px;
+    position: fixed;
+    overflow: hidden;
+    width: 100%;
+    z-index: 20;
+    margin-top:-13px;
+
+}
+.logo{
+    margin-left: 150px;
+    font-size: 40px;
+    color:white;
+    text-decoration: none;
+    letter-spacing: 2px;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.a{
+    text-decoration: none;
+    font-size: 17px;
+    color:white;
+}
+.a:hover{
+    color: rgb(121, 112, 112);
+}
+
+.bar{
+    margin-right: 150px;
+    word-spacing: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+}
+.Desing{
+    word-spacing: normal;
+    color:white;
+    font-size: 17px;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+.Desing:hover{
+    color: rgb(121, 112, 112);
+}
+.best{
+    margin-left: 120px;
+    padding: 20px;
+    font-size: 30px;
+    color:rgb(121, 1, 1);
+    font-family:monospace;
+    margin-bottom: 400px;
+
+}
+.B{
+    margin-top: 120px;
+}
+.s{
+    word-spacing: 10px;
+}
+.pera{
+    width: 350px;
+    color:rgb(121, 1, 1);
+    font-family:unset;
+    font-size: 15px;
+    text-align: justify;
+    margin-top: 20px;
+    line-height: 25px;
+    
+}
+.bt button{
+    margin-top: 30px;
+    width: 130px;
+    height: 40px;
+     word-spacing: 3px;
+     border-radius: 5px;
+     border: none;
+    background:rgb(227, 69, 69);
+    color:white;
+    font-family:monospace;
+    font-size: 15px;
+    
+}
+.bt button:hover{
+    background-color: rgb(177, 36, 36);
+    
+}
+img{
+    margin-left: 800px;
+    width: 500px;
+    position: absolute;
+    margin-top: 140px;
+}
+
+/* section_2*/
+.img1 img{
+    border: 2px solid black;
+    width: 340px;
+    height: 600px;
+    margin-left: 116px;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+ .about h2{
+    margin-left: 700px;
+    margin-top: 300px;
+    color: rgb(169, 39, 39);
+    font-size: 30px;
+    font-weight: bold;
+}
+.about p{
+    font-size: 15px;
+    width: 400px;
+    margin-left: 670px;
+    padding: 30px;
+    font-family: serif;
+    word-spacing: 5px;
+    line-height: 30px;
+}
+ .about .btn1{
+    margin-left: 700px;
+    width: 150px;
+    height: 47px;
+    font-size: 18px;
+    border-radius: 5px;
+    color: rgb(173, 36, 36);
+ }
+ .about .btn1:hover{
+       background-color:rgb(182, 176, 176);
+ }
+ /*sectin_3*/
+ .section_3 h1{
+    margin-top: 280px;
+    margin-left: 481px;
+    word-spacing: 10px;
+    font-family: cursive;
+    color:rgba(30, 28, 28, 0.85);
+
+ }
+ .section_3 p{
+    margin-left: 262px;
+    padding: 14px;
+    font-family: cursive;
+    color:rgba(30, 28, 28, 0.85);
+
+ }
+   .As {
+    border: 1px solid black;
+    width: 250px;
+    height: 315px;
+    margin-left: 64px;
+    padding: 49px 76px 100px 67px;
+    border-radius: 10px;
+    margin-top:183px;
+
+ }
+   .char1 h3 {
+    margin-top:195px;
+    display: inline-block;
+    margin-left: 210px;
+    font-size: 20px;
+    font-family: cursive;
+    color:rgba(30, 28, 28, 0.85);
+ }
+ .char1 p{
+    margin-top: 307px;
+    margin-left: 186px;
+    color: rgb(222, 55, 55);
+    font-size: 20px;
+    font-family: cursive;
+
+ }
+  .char1 button{
+    width: 90px;
+    height: 27px;
+    margin-left: 195px;
+    border-radius: 5px;
+    border: none;
+    color: brown;
+    font-family: cursive;
+ }
+  .char1 button:hover{
+    background-color: rgba(104, 102, 102, 0.517);
+  }
+ .img4 img{
+    width: 310px;
+    height: 382px;
+    margin-left: 493px;
+    margin-top:-443px;
+    border-radius: 8px;
+    position:absolute;
+    display: inline-block;
+    padding: 51px 48px 36px 39px;
+    border:1px solid black;
+ }
+ .Sectrion_4{
+    margin-top: -145px;
+ }
+  .ch02 h3{
+    margin-left: 650px;
+    margin-top: -435px;
+    position: absolute;
+    font-family:cursive ;
+    color:rgba(30, 27, 27, 0.85);
+    font-size: 22px;
+  }
+  .ch02 p{
+    margin-left: 650px;
+    font-family:cursive ;
+    color: rgb(222, 55, 55);
+    font-size: 22px;
+    position: absolute;
+    margin-top: -68px;
+
+  }
+  .ch02 button{
+    width: 90px;
+    height: 27px;
+    margin-left: 650px;
+    border-radius: 3px;
+    border: none;
+    color: brown;
+    font-family: cursive;
+    position: absolute;
+    margin-top: -28px;
+  }
+  .ch02 button:hover{
+    background: rgba(104, 102, 102, 0.517);
+  }
+    .img5 img{
+        border: 1px solid black;
+        width: 310px;
+        height: 360px;
+        margin-left: 493px;
+        display: inline-block;
+        margin-top: -442px;
+        padding: 49px 48px 60px 39px;
+        border-radius: 8px;
+        position: absolute;
+        margin-left: 930px;
+    }
+    /*.ch03{
+        width: 100%;
+    }*/
+
+ .Sectrion_4 .ch03 h3{
+    margin-left: 1098px;
+    margin-top: -433px;
+    position: absolute;
+    font-family:cursive ;
+    color:rgba(30, 27, 27, 0.85);
+    font-size: 22px;
+ }
+    .ch03 p{
+   margin-left: 1095px;
+    position: absolute;
+    font-family:cursive ;
+    color: rgb(222, 55, 55);
+    font-size: 22px;
+    margin-top: -79px;
+
+ }
+    .btn3{
+    width: 90px;
+    height: 27px;
+    margin-left: 1095px;
+    border-radius: 3px;
+    border: none;
+    color: brown;
+    font-family: cursive;
+    position: absolute;
+    margin-top: -28px;
+
+ }
+ .btn3:hover{
+    background: rgba(104, 102, 102, 0.517);
+ }
+ .img6 img{
+    margin-left: 100px;
+    width: 550px;
+    height: 335px;
+ }
+ .cupa{
+    margin-left: 830px;
+    margin-top: 200px;
+    display: inline-block;
+    width: 100%;
+    
+ }
+ .cupa p{
+    font-family: inherit;
+    font-size: 46px;
+    word-spacing: 10px;
+    letter-spacing: 3px;
+    color: rgb(145, 29, 29);
+    margin-top: -50px;
+ }
+ .cupa input{
+    display: block;
+    width: 425px;
+    padding: 12px;
+    border-radius: 5px;
+    font-size: 19px;
+    text-transform: capitalize;
+    word-spacing: 4px;
+    border: none;
+    background: rgb(195, 189, 189);
+    color:brown;
+ }
+ .cupa button{
+    width: 155px;
+    height: 45px;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 5px;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+    margin-left: 154px;
+ }
+ .cupa button:hover{
+    background: #eb2f28;
+ }
+ .section6{
+    margin-top: 230px;
+    margin-left: 120px;
+    font-family: cursive;
+
+ }
+  .contact h1{
+      margin-top: 5px;
+  }
+ .section6 .contact input{
+    width: 450px;
+    padding: 10px;
+    margin-top: 11px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: none;
+    background: rgb(185, 184, 184);
+    display:inline-block;
+    font-family: cursive;
+ }
+   .mass h5{
+    width: 466px;
+    height: 300px;
+    padding: 0px;
+    border: 1px solid black;
+    font-size: 16px;
+    color: rgb(116, 109, 109);
+    border-color: rgb(116, 109, 109);
+
+ }
+ .section6 button{
+    width: 130px;
+    padding: 9px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+    color:white;
+    font-family: cursive;
+ }
+ .section6 button:hover{
+    background: #eb2f28;
+    
+ }
+.map{
+    order: 1px solid black;
+    width: 466px;
+    height: 477px;
+    display: flex;
+    margin-top: -552px;
+    margin-left: 537px;
+}
+.section7 {
+    margin-top: 250px;
+    background-color: #a51510;
+    padding: 30px;
+    color:white;
+    text-decoration: none;
+    font-family: inherit;
+}
+.sec{
+    margin-left: 100px;
+    word-spacing: 5px;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+.link h1{
+    margin-top: 16px;
+    font-family: inherit;
+}
+
+.section7 .repair  {
+    margin-left: 298px;
+    margin-top: -220px;
+    display: inline-block;
+    font-family: inherit;
+    word-spacing: 5px;
+
+}
+.section7 .media{
+    margin-left: 254px;
+    margin-top: -240px;
+    display: inline-block;
+    position: absolute;
+    font-family: inherit;
+}
+.section7 .cnter{
+    margin-left: 316px;
+    margin-top: -196px;
+    width: 100%;
+    font-family: inherit;
+}
+.cnter p{
+    width: 250px;
+    text-align: justify;
+    line-height: 30px;
+    word-spacing: 3px;
+}
+
+ 
+ 
